@@ -22,8 +22,6 @@ This project performs Exploratory Data Analysis (EDA) on Diwali sales data using
 
 - diwali_sales.csv – Contains transactional data with customer and product details
 
-- ![image](https://github.com/user-attachments/assets/81c47e17-36b7-4f95-9602-fcbb8f448333)
-
 
 ## Key Insights  
 
