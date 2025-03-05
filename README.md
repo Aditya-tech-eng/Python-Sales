@@ -50,8 +50,6 @@ This project employs a multi-faceted approach:
     * Eastern zones may have operational challenges.
 * **Customer Segmentation:**
     * Metro and Northern customers are highly valuable segments, both online and offline.
-* **Aditya Webstore Analysis:**
-    * [Add specific findings from webstore analysis here, e.g., high cart abandonment rate for specific categories, popular search terms, user flow issues, effectiveness of specific online marketing campaigns, mobile vs desktop user behavior, etc.]
 
 ## Strategic Recommendations
 
@@ -62,20 +60,17 @@ Based on the analysis, the following strategic recommendations are proposed:
 * **Enhance Regional Strategies:** Tailor regional marketing campaigns and optimize resource allocation based on zone-specific demand, including online marketing and fulfillment.
 * **Improve Operational Efficiency:** Address operational bottlenecks in the Eastern zone and optimize logistics across all regions, including online order fulfillment.
 * **Personalize Customer Experience:** Tailor customer experiences based on purchasing habits and preferences, both in-store and online.
-* **Optimize Aditya Webstore Experience:**
-    * [Add specific recommendations based on webstore analysis, e.g., improve product page design, simplify checkout process, implement targeted promotions, optimize search functionality, improve mobile experience, address cart abandonment issues, refine online marketing campaigns, etc.]
 
 ## Tools and Technologies
 
 * **Python:** Pandas, NumPy, Matplotlib, Seaborn
 * **PostgreSQL:** For SQL analysis and sales reporting
 * **Jupyter Notebook:** For interactive data analysis and visualization
-* **Webstore Analytics Tools:** [Specify the tools used for webstore analysis, e.g., Google Analytics, Adobe Analytics, etc.]
+
 
 ## Dataset
 
 * `diwali_sales.csv`: Contains transactional data with customer and product details.
-* **Aditya Webstore Data:** [Specify the source of webstore data, e.g., database tables, exported reports, API data, etc.]
 
 ## How to Use
 
