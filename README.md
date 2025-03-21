@@ -1,7 +1,9 @@
 # Aditya Store Festival Sales Analysis: Unveiling Customer Insights for Diwali Success
 
 This project presents a comprehensive analysis of Diwali sales data for Aditya Store, aimed at providing actionable insights to optimize future festival sales strategies. By leveraging Exploratory Data Analysis (EDA) with Python, in-depth SQL analysis, and dedicated webstore analytics, this report delves into customer demographics, product performance, sales effectiveness, operational efficiency, and online customer behavior.
+
 ![image](https://github.com/user-attachments/assets/eea04105-4d2c-4e60-83b2-6a40d34a9890)
+
 
 
 ## Project Overview
